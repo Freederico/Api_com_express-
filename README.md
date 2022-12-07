@@ -2,7 +2,7 @@
 
 # Pré-requisito globais:</br>
 
-npm i -g nomdemon </br>
+npm i -g nodemon </br>
 
 # Instalação</br>
 
