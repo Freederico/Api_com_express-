@@ -1,10 +1,13 @@
 # Api com express
 
-oPré-requisito globais:
-npm i -g nomdemon 
+##Pré-requisito globais:</br>
 
-##Instalação
-npm install
+npm i -g nomdemon </br>
+
+##Instalação</br>
+
+npm install</br>
 
 ##Para rodar o projeto
+
 npm run start
